@@ -20,6 +20,9 @@ Output: 2
 Constraints:
 
 1 <= nums.length <= 2 * 104
+
 -1000 <= nums[i] <= 1000
+
 -107 <= k <= 107
+
 Here's the link to the question:https://leetcode.com/problems/subarray-sum-equals-k/description/
